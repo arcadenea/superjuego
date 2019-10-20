@@ -1,5 +1,5 @@
 #SE_BASE=$(shell pwd)
-SE_BASE=/home/cabral/proyectos/superjuego/nuevo
+SE_BASE=/home/cabral/proyectos/superjuego/nuevo/superjuego
 
 OBJS = \
 $(SE_BASE)/sprite.o \

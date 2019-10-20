@@ -70,11 +70,11 @@ SE_movie *SE_movie_load(char *path_file)
 	
 	movie->height = movie->mdata->pCodecCtx->height;
 
-	movie->mdata->numBytes = avpicture_get_size(AV_PIX_FMT_BGR24, movie->mdata->pCodecCtx->width, movie->mdata->pCodecCtx->height);
+	movie->mdata->numBytes = avpicture_get_size(PIX_FMT_RGB24, movie->mdata->pCodecCtx->width, movie->mdata->pCodecCtx->height);
 
 	movie->mdata->buffer=(uint8_t *)av_malloc(movie->mdata->numBytes*sizeof(uint8_t));
 
-	avpicture_fill((AVPicture *)movie->mdata->pFrameRGB,movie->mdata->buffer,AV_PIX_FMT_BGR24,movie->mdata->pCodecCtx->width,movie->mdata->pCodecCtx->height);
+	avpicture_fill((AVPicture *)movie->mdata->pFrameRGB,movie->mdata->buffer,PIX_FMT_RGB24,movie->mdata->pCodecCtx->width,movie->mdata->pCodecCtx->height);
 
 	glGenTextures(1,&movie->mdata->texture_video);
 	glBindTexture(GL_TEXTURE_2D,movie->mdata->texture_video); 
@@ -87,7 +87,7 @@ SE_movie *SE_movie_load(char *path_file)
 											movie->mdata->pCodecCtx->pix_fmt,
 											movie->mdata->pCodecCtx->width,
 											movie->mdata->pCodecCtx->height,
-											AV_PIX_FMT_BGR24,
+											PIX_FMT_RGB24,
 											SWS_BILINEAR,
 											NULL,
 											NULL,
