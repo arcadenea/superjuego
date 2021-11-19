@@ -1,3 +1,7 @@
-montage jessica-parada00.png jessica-parada01.png jessica-parada02.png jessica-paradadispara00.png jessica-paradadispara01.png jessica-camina00.png jessica-camina01.png jessica-caminadispara00.png jessica-caminadispara01.png  jessica-salta00.png jessica-salta01.png jessica-saltadispara00.png jessica-agacha00.png jessica-agachadispara00.png jessica-festejo00.png jessica-muerte00.png -tile 4x -background none -geometry +0+0 PNG32:jessica_images.png
+montage j01.png j02.png j03.png j04.png j05.png j06.png j07.png j08.png -tile 4x -background none -geometry +0+0 PNG32:jessica_images.png
 
-montage kiko-parado00.png kiko-parado01.png kiko-parado02.png kiko-paradodispara00.png kiko-paradodispara01.png kiko-camina00.png kiko-camina01.png kiko-caminadispara00.png kiko-caminadispara01.png kiko-salta00.png kiko-salta01.png kiko-saltadispara00.png kiko-agacha00.png kiko-agachadispara00.png kiko-festejo00.png kiko-muerte00.png -tile 4x -background none -geometry +0+0 PNG32:kiko_images.png
+montage k01.png k02.png k03.png k04.png k05.png k06.png k07.png k08.png k09.png -tile 4x -background none -geometry +0+0 PNG32:kiko_images.png
+
+montage r01.png r02.png -tile 2x -background none -geometry +0+0 PNG32:robot.png
+
+

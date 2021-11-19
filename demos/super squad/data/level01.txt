@@ -1,0 +1,9 @@
+TILE_W = 32
+NTILES_X = 40
+NTILES_Y = 22
+TMAP_PATH = tilemap.txt
+TCOLL_PATH = mapcoll.txt 
+NTILESET = 1
+TILE_IMG = tiles.png
+
+

@@ -160,14 +160,16 @@ void SE_ani_create_from_img(SE_ani *ani,SE_image *img,int numimagex,int numimage
 {
 
 	int i,j;
-	int count = 0;		
+	int count = 0;
+	int nimgx = numimagex;
+	int nimgy = numimagey;				
 
 	float w = ani->width;
 	float h = ani->height;
 
-	for(j=0;j<numimagey;j++)
+	for(j=0;j<nimgy;j++)
 	{			
-		for(i=0;i<numimagex;i++)
+		for(i=0;i<nimgx;i++)
 		{
 			SE_ani_addframe_segment(ani,img,count,delay,i*w,j*h,w,h);
 			count++;
@@ -247,8 +249,10 @@ void SE_animator_stop(SE_animator *ator)
 void SE_animator_initend_set(SE_animator *ator,int initframe,int endframe)
 {
 
-	ator->initframe = initframe;
-	ator->currentframe = initframe;
+	int ifr = initframe;
+	int efr = endframe;
+	ator->initframe = ifr;
+	ator->currentframe = efr;
 
 	if(endframe > (ator->numframes - 1))
 	{
@@ -257,7 +261,7 @@ void SE_animator_initend_set(SE_animator *ator,int initframe,int endframe)
 
 	}else{
 
-		ator->endframe = endframe;
+		ator->endframe = efr;
 
 	}
 

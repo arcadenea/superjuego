@@ -13,7 +13,7 @@
    height="297mm"
    id="svg3670"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="enemigo - yacare.svg">
   <defs
      id="defs3672" />
@@ -24,17 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="147.24317"
-     inkscape:cy="733.28099"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="340.14577"
+     inkscape:cy="936.79231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1364"
-     inkscape:window-height="695"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata3675">
     <rdf:RDF>
@@ -709,11 +710,11 @@
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path3143"
-       d="m 245.8405,365.79029 3.2351,21.83692 -14.96233,8.49214 28.30712,0 0.80877,-31.94661 z"
+       d="m 267.04035,365.40121 3.2351,21.83692 -14.96233,8.49214 h 28.30712 l 0.80877,-31.94661 z"
        style="fill:#000000;stroke:#000000;stroke-width:0.80064636px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.80064636px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 306.74945,365.3859 -3.2351,21.83692 14.96234,8.49214 -28.30713,0 -0.80877,-31.94661 z"
+       d="m 294.74945,365.3859 -3.2351,21.83692 14.96234,8.49214 h -28.30713 l -0.80877,-31.94661 z"
        id="path3145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />

@@ -1,0 +1,20 @@
+01.png jessica-parada00
+02.png jessica-parada01
+03.png jessica-parada02
+04.png jessica-paradadispara00
+05.png jessica-paradadispara01
+06.png jessica-camina00
+07.png jessica-camina01
+08.png jessica-camina-dispara01
+09.png jessica-camina-dispara02
+10.png jessica-agachada00
+11.png jessica-agachadispara00
+12.png jessica-salta00
+13.png jessica-salta01
+14.png jessica-saltadispara00
+15.png jessica-muerte00
+16.png jessica-festejo00
+
+
+
+

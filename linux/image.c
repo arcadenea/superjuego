@@ -105,7 +105,7 @@ SE_image *SE_image_load(const char *path)
 	img->texture = loadTexture(temp);
 
 	img->width = temp->w;
-	img->height = temp->h;			
+	img->height = temp->h;
 	
 	SDL_FreeSurface(temp);
 	return img;
@@ -119,23 +119,23 @@ void SE_image_segment_draw_fx(SE_image *img,float xtex,float ytex,float wtex,flo
 	float r,float g,float b,float alpha)
 {
 
+
+
 	float width = wtex * zoomx;
 	float height = htex * zoomy;
 
-	float w = img->width;
-	float h = img->height;
-
+	float w = (float)img->width;
+	float h = (float)img->height;
 
 	if(w == 0)w = 1;
 	if(h == 0)h = 1;
 
+	//printf("\nhola\n");
 
 	float x1 = xtex/w;
 	float y1 = ytex/h;
 	float x2 = (xtex + wtex)/w;
 	float y2 = (ytex + htex)/h;
-
-
 	
 		glPushMatrix();	
 

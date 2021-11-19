@@ -378,7 +378,9 @@ void SE_tilemap_draw(SE_tilemap *tm,float posx,float posy,float posz)
 			
 			if(((x >= -w) && (x <= (screen_width + w))) || ((y >= -h) && (y <= (screen_height + h))))
 			{
-				SE_tileset_draw(tm->tset,t,x,y,posz);
+				if(t > 0){
+					SE_tileset_draw(tm->tset,t,x,y,posz);
+				}
 			}
 			
 		}
