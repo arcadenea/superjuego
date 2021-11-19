@@ -56,13 +56,13 @@
 #include "collision.h"
 #include "sprite.h"
 #include "audio.h"
-#include "movie.h"
+//#include "movie.h"
 #include "input.h"
 #include "font.h"
 #include "tile.h"
 #include "primitives.h"
 #include "console.h"
-#include "luascript.h"
+//#include "luascript.h"
 #include "transform.h"
 
 

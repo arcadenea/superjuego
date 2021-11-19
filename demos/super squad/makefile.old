@@ -2,9 +2,9 @@ TARGET=ssquad
 TARGET_LINUX=1
 CC = g++
 DEBUG = -g
-CFLAGS = -Wall `sdl-config --cflags` -I./ -I$(SE_BASE)/linux -I$(SE_BASE)/include -c $(DEBUG) -fpermissive
+CFLAGS = -Wall `sdl-config --cflags` `pkg-config --cflags lua5.1 libavformat libavcodec libswscale libavutil`  -I./ -I$(SE_BASE)/linux -I$(SE_BASE)/include -c $(DEBUG) -fpermissive
 LFLAGS = -Wall $(DEBUG)
-LIBS = `sdl-config --libs` -lm  -lSDL_image -lSDL_mixer -lpng -lGL -lGLU -ldl 
+LIBS = `sdl-config --libs` `pkg-config --libs lua5.1 libavformat libavcodec libswscale libavutil` -lm  -lSDL_image -lSDL_mixer -lpng -lGL -lGLU -llua5.1 -ldl 
 
 #-lavdevice -lavformat -lavfilter -lavcodec -lswresample -lswscale -lavutil -lbz2 -lm -lz -lpthread -lpostproc
 
@@ -12,7 +12,7 @@ include ../../config.mk
 
 all: $(TARGET)
 
-OBJS += enemy.o game.o joy.o level.o player.o main.o
+OBJS += joy.o player.o main.o 
 
 rm-elf:
 	-rm -f $(TARGET) $(OBJS)

@@ -17,13 +17,4 @@ int collision_player_tilemap(S_player *pl, SE_tilemap *tm)
 
 }
 
-int collision_player_enemy(S_player *pl, S_enemy *em)
-{
 
-
-
-
-
-
-
-}

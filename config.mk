@@ -1,5 +1,5 @@
 #SE_BASE=$(shell pwd)
-SE_BASE=/home/cabral/proyectos/superjuego/nuevo
+SE_BASE=/home/cabral/proyectos/superjuego/superjuego
 
 OBJS = \
 $(SE_BASE)/sprite.o \
@@ -28,13 +28,11 @@ $(SE_BASE)/android/audio.o \
 $(SE_BASE)/android/timer.o 
 else ifdef TARGET_LINUX
 OBJS += \
-$(SE_BASE)/linux/luascript.o \
 $(SE_BASE)/linux/render.o \
 $(SE_BASE)/linux/image.o \
 $(SE_BASE)/linux/primitives.o \
 $(SE_BASE)/linux/input.o \
 $(SE_BASE)/linux/audio.o \
-$(SE_BASE)/linux/movie.o \
 $(SE_BASE)/linux/timer.o
 else ifdef TARGET_WIN32
 OBJS += \

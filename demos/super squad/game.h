@@ -6,6 +6,7 @@
 #include <string.h>
 #include "super.h"
 #include "player.h"
+#include "enemy.h"
 
 
 
