@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="soldado.svg"
-   inkscape:version="1.0beta2 (unknown)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    id="svg8"
    version="1.1"
    viewBox="0 0 210 297"
@@ -20,17 +20,17 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="747"
-     inkscape:window-width="1280"
+     inkscape:window-height="997"
+     inkscape:window-width="1920"
      inkscape:snap-global="false"
      showguides="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="75.599913"
-     inkscape:cx="126.29213"
-     inkscape:zoom="5.6"
+     inkscape:cy="306.16478"
+     inkscape:cx="314.33973"
+     inkscape:zoom="1.8003781"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,8 +54,94 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <path
-       style="fill:#22280b;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 26.462176,20.541216 0.962083,1.026224 c 0.768813,2.992294 0.178165,4.625128 0,6.670447 l -1.924167,-0.128278 -0.352763,-7.632531 z"
+       inkscape:connector-curvature="0"
+       id="path1116"
+       d="m 151.65438,35.237047 -4.47264,-0.03785 0.0369,1.266828 4.15625,-0.136213 z"
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.77249056"
+       rx="1.0433422"
+       cy="155.50864"
+       cx="17.649117"
+       transform="matrix(-0.118786,0.99291988,0.99291987,0.11878608,0,0)"
+       id="ellipse1150"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.61281,38.147472 1.19652,-4.138659 5.85923,-0.162645 -0.4898,1.637071 -3.02313,-0.07049 -0.43041,1.342495 -1.18825,-0.104944 -0.43532,1.488368 z"
+       id="path1148" />
+    <path
+       style="fill:#22280b;stroke:#000000;stroke-width:0.214239;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25.474084,51.717667 0.953139,1.310331 c 0.761665,3.820704 0.176508,5.905585 0,8.517146 L 24.520944,61.381353 24.17146,51.635772 Z"
+       id="path1058"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.665073,37.235422 -3.335223,-0.320696 -0.06414,1.282778 3.720059,0.128278 z"
+       id="path3793"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.504615,34.240172 -1.09304,-3.837766 -2.116585,1.411058 1.710324,2.402604 z"
+       id="path3021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.465474,33.980589 -1.293492,-0.06118 -0.761634,3.379023 1.603476,0.188214 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3025"
+       d="m 19.581855,37.208514 3.335225,-0.320697 0.06414,1.282776 -3.720057,0.128281 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3027"
+       d="m 20.895519,34.126877 0.892589,-3.637314 2.116584,1.411057 -1.777141,2.603053 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3029"
+       d="m 20.895519,33.93253 1.36031,0.02679 0.828449,2.969141 -1.737108,0.473078 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#22280b;stroke:#000000;stroke-width:0.214239;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.462302,20.571647 0.953139,1.310331 c 0.761665,3.820704 0.176508,5.905585 0,8.517146 l -1.906279,-0.163791 -0.349484,-9.745581 z"
        id="path3787"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc"
@@ -66,16 +152,25 @@
        inkscape:connector-curvature="0"
        id="path3809"
        d="m 30.739789,28.12713 -3.589488,-2.668633 -0.717383,1.044784 3.436648,2.341452 z"
-       style="fill:#677821;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
        inkscape:export-xdpi="89.962936"
        inkscape:export-ydpi="89.962936" />
     <path
-       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 23.685572,20.505785 c 3.181614,0 2.916492,2.698703 3.145288,5.66633 0.357869,4.64186 0.03633,5.108398 -3.145288,5.108398 -3.181615,0 -2.72175,-2.395988 -2.72175,-5.371256 0,-2.975263 -0.459865,-5.403472 2.72175,-5.403472 z"
        id="path3016"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.7201,30.183186 c -1.974968,0.705089 -2.556441,0.511902 -5.689945,-0.226413 2.3062,3.892396 6.360248,0.784777 5.689945,0.226413 z"
+       id="path3019"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
        inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
        inkscape:export-xdpi="89.962936"
        inkscape:export-ydpi="89.962936" />
@@ -115,7 +210,7 @@
     <path
        sodipodi:arc-type="arc"
        sodipodi:type="arc"
-       style="fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path3763"
        sodipodi:cx="-27.083591"
        sodipodi:cy="18.408432"
@@ -130,8 +225,8 @@
        inkscape:export-xdpi="89.962936"
        inkscape:export-ydpi="89.962936" />
     <path
-       style="fill:#677821;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 22.202458,20.15971 c -0.828757,-0.302842 -2.473849,0.420455 -3.508207,1.592679 -0.609814,2.194525 -1.255751,4.059888 -0.214416,6.254414 l 3.960237,1.064011 c -0.970224,-2.923805 -0.501599,-5.364385 0.633638,-7.581086 z"
+       style="fill:#808000;stroke:#000000;stroke-width:0.180466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.427866,20.165499 c -0.619787,-0.36348 -1.850072,0.504642 -2.623618,1.91158 -0.456051,2.633932 -0.939116,4.872796 -0.160351,7.50673 l 2.96167,1.277057 c -0.725584,-3.509237 -0.375123,-6.438492 0.473866,-9.09904 z"
        id="path3785"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc"
@@ -139,7 +234,7 @@
        inkscape:export-xdpi="89.962936"
        inkscape:export-ydpi="89.962936" />
     <path
-       style="fill:#668000;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#808000;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 23.823018,21.793076 -2.695409,-2.60491 -0.470625,1.01302 c 1.0521,0.987074 1.562098,1.668535 2.181995,2.411953 z"
        id="path3789"
        inkscape:connector-curvature="0"
@@ -148,17 +243,8 @@
        inkscape:export-xdpi="89.962936"
        inkscape:export-ydpi="89.962936" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 29.998453,37.251625 -3.335223,-0.320696 -0.06414,1.282778 3.720059,0.128278 z"
-       id="path3793"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
-    <path
-       style="fill:#677821;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 17.842621,26.260402 0.733166,-5.134388 c 0.585733,-0.130691 1.17207,-0.254712 1.841331,0.533416 l -0.796448,4.646335 z"
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.890662,26.088631 2.235773,-4.679828 c 0.598004,0.05055 1.194589,0.107636 1.597386,1.059901 l -2.150133,4.195199 z"
        id="path3799"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -166,74 +252,16 @@
        inkscape:export-xdpi="89.962936"
        inkscape:export-ydpi="89.962936" />
     <path
-       style="fill:#2d5016;stroke:#000000;stroke-width:0.238565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 20.479569,28.021072 4.588267,0.360325 0.321344,-0.475649 5.411731,0.345972 c 0.368097,-0.26909 0.237559,-0.538179 0.05579,-0.807268 L 25.38918,26.983159 25.151643,26.233803 c -1.493319,-0.193699 -3.130698,-0.183181 -4.727864,-0.403883 -0.300315,0.730382 -0.488087,1.460767 0.05579,2.191152 z"
-       id="path3781"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
+       id="path859"
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.937228,24.804304 -0.268273,0.682303 -0.143678,-0.0075 0.141037,0.01445 -0.03511,0.08871 -3.684726,4.116535 2.676958,0.760733 0.796453,-1.890817 2.18311,-0.102797 1.696586,0.587703 -0.9841,2.392608 1.342408,0.382019 1.323154,-4.294306 5.681982,1.5755 0.305743,-1.118873 z m 3.022335,2.092358 1.08653,0.342586 -0.468208,1.138283 -1.108055,-0.358978 c -0.118996,0.0165 -0.09346,-0.787558 0.489733,-1.121891 z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
     <path
        style="fill:#677821;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 23.073265,26.967448 -5.002836,-2.148652 -0.192416,1.507262 4.425585,1.667613 z"
+       d="m 23.055379,26.776189 -4.449661,-1.730742 c 0.244444,-0.353328 -0.207204,0.331154 -0.745591,1.089352 l 4.425585,1.667613 z"
        id="path3801"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 27.003271,29.997545 c 2.612343,0.930905 -3.55439,0.646794 -6.698431,-0.09204 2.314093,3.92225 7.686195,1.851101 6.698431,0.09204 z"
-       id="path3019"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 28.837995,34.256375 -1.09304,-3.837766 -2.116585,1.411058 1.710324,2.402604 z"
-       id="path3021"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 28.798854,33.996792 -1.293492,-0.06118 -0.761634,3.379023 1.603476,0.188214 z"
-       id="path3023"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3025"
-       d="m 18.472417,37.201701 3.335225,-0.320697 0.06414,1.282776 -3.720057,0.128281 z"
-       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3027"
-       d="m 19.786081,34.120064 0.892589,-3.637314 2.116584,1.411057 -1.777141,2.603053 z"
-       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
-       inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3029"
-       d="m 19.786081,33.925717 1.36031,0.02679 0.828449,2.969141 -1.737108,0.473078 z"
-       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
        inkscape:export-xdpi="89.962936"
        inkscape:export-ydpi="89.962936" />
@@ -272,22 +300,1699 @@
        inkscape:export-ydpi="89.962936" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 19.791728,25.22336 -1.571402,-0.769668 -0.352765,2.084514 2.116585,-0.897945 z"
+       d="m 20.09035,25.555162 -1.424623,-1.265167 -0.960286,1.883479 2.742495,-0.397078 z"
        id="path3923"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
        inkscape:export-xdpi="89.962936"
-       inkscape:export-ydpi="89.962936" />
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:0.252733;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.931485,16.678799 c -0.280727,-0.250549 -2.872232,1.901146 -7.164702,0.64801 -0.113209,-0.686335 -0.194036,-0.542998 0.05748,-1.302824 z"
+       id="path32"
+       sodipodi:nodetypes="cccc" />
     <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path116"
-       d="m 20.155736,16.268929 c 0.07401,-4.668779 7.031079,-7.3530587 8.358597,-0.06272 -2.082394,1.154187 -4.740565,2.665466 -8.358597,0.06272 z"
+       d="m 20.155736,16.268929 c 0.07401,-4.668779 7.031079,-7.3530587 8.358597,-0.06272 -1.504867,0.870077 -3.539685,2.074701 -8.358597,0.06272 z"
        style="fill:#808000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path118"
-       d="m 23.345202,19.29117 3.319694,0.630416"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 23.345202,19.29117 c 1.697943,-0.550862 2.479234,0.384768 3.524172,0.669061"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.411729,36.721086 -3.335223,-0.320696 -0.06414,1.282778 3.720059,0.128278 z"
+       id="path905"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.251271,33.725836 -1.09304,-3.837766 -2.116585,1.411058 1.710324,2.402604 z"
+       id="path911"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.21213,33.466253 -1.293492,-0.06118 -0.761634,3.379023 1.603476,0.188214 z"
+       id="path917"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path919"
+       d="m 41.386845,36.694178 3.335225,-0.320697 0.06414,1.282776 -3.720057,0.128281 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path921"
+       d="m 42.700509,33.612541 0.892589,-3.637314 2.116584,1.411057 -1.777141,2.603053 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path923"
+       d="m 42.700509,33.418194 1.36031,0.02679 0.828449,2.969141 -1.737108,0.473078 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path884"
+       d="m 28.241182,52.554807 -3.49341,2.793226 0.828109,0.959399 3.138125,-2.728575 z"
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 22.586516,51.693408 c 3.181614,0 2.916492,2.698703 3.145288,5.66633 0.357869,4.64186 0.03633,5.108398 -3.145288,5.108398 -3.181615,0 -2.72175,-2.395988 -2.72175,-5.371256 0,-2.975263 -0.459865,-5.403472 2.72175,-5.403472 z"
+       id="path886"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;stroke:#000000;stroke-width:0.180466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 21.439648,51.311519 c -0.619787,-0.36348 -1.850072,0.504642 -2.623618,1.91158 -0.456051,2.633932 -0.939116,4.872796 -0.160351,7.50673 l 2.96167,1.277057 c -0.725584,-3.509237 -0.375123,-6.438492 0.473866,-9.09904 z"
+       id="path1060"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="1.4792922"
+       rx="1.3721497"
+       cy="49.750793"
+       cx="27.552177"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.0821941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse888"
+       transform="matrix(-0.60561928,0.79575454,0.79575454,0.60561928,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="2.0490742"
+       rx="1.2994885"
+       cy="58.354671"
+       cx="13.180907"
+       style="opacity:0.477941;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0361937"
+       id="ellipse890"
+       transform="matrix(-0.89494282,0.44618084,0.60053243,0.7996004,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="4.0472388"
+       rx="3.6866415"
+       cy="48.696178"
+       cx="-23.263063"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse892"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path894"
+       sodipodi:cx="-25.984535"
+       sodipodi:cy="50.125221"
+       sodipodi:rx="1.0910599"
+       sodipodi:ry="1.112042"
+       d="m -24.942329,49.796184 a 1.0910599,1.112042 0 0 1 -0.423581,1.24505 1.0910599,1.112042 0 0 1 -1.29228,-0.04125 1.0910599,1.112042 0 0 1 -0.346306,-1.269627 1.0910599,1.112042 0 0 1 1.085966,-0.715137"
+       transform="scale(-1,1)"
+       sodipodi:start="5.9828029"
+       sodipodi:end="4.7729227"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.869754,52.671624 -2.695409,-2.60491 -0.470625,1.01302 c 1.0521,0.987074 1.562098,1.668535 2.181995,2.411953 z"
+       id="path898"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.566017,68.423045 -3.335223,-0.320696 -0.06414,1.282778 3.720059,0.128278 z"
+       id="path900"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 21.020022,57.234954 -2.978271,-4.246101 c 0.337755,-0.49607 0.680507,-0.987693 1.707832,-0.870828 l 2.598193,3.933467 z"
+       id="path902"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.621044,61.370809 c -1.974968,0.705089 -2.556441,0.511902 -5.689945,-0.226413 2.3062,3.892396 6.360248,0.784777 5.689945,0.226413 z"
+       id="path904"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.405559,65.427795 -1.09304,-3.837766 -2.116585,1.411058 1.710324,2.402604 z"
+       id="path906"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       id="path908"
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.61002,51.899796 -0.06806,0.729984 -0.140101,0.03273 0.139495,-0.02533 -0.0091,0.09497 -2.39534,4.978495 2.78292,-0.0133 0.239516,-2.037684 2.068514,-0.705543 1.793084,0.09298 -0.280296,2.571859 1.395694,-0.0062 0.07741,-4.492861 5.895996,-0.06589 -0.01729,-1.159765 z m 3.484813,1.169851 1.138938,0.02709 -0.133373,1.223568 -1.164171,-0.03685 c -0.109721,0.04893 -0.308679,-0.730547 0.158606,-1.213804 z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <path
+       style="fill:#677821;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.670354,53.465484 -4.30435,2.065798 c -0.09091,-0.419916 0.100166,0.377576 0.28578,1.288768 l 4.241809,-2.091361 z"
+       id="path910"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.366418,65.168212 -1.293492,-0.06118 -0.761634,3.379023 1.603476,0.188214 z"
+       id="path912"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path914"
+       d="m 18.482799,68.396137 3.335225,-0.320697 0.06414,1.282776 -3.720057,0.128281 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path916"
+       d="m 19.796463,65.3145 0.892589,-3.637314 2.116584,1.411057 -1.777141,2.603053 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path918"
+       d="m 19.796463,65.120153 1.36031,0.02679 0.828449,2.969141 -1.737108,0.473078 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="55.380074"
+       cx="22.128796"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse920"
+       transform="matrix(-0.68337658,0.73006606,0.73006606,0.68337658,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.77249056"
+       rx="1.0433422"
+       cy="-4.5903144"
+       cx="60.495693"
+       transform="matrix(0.53446401,0.84519123,0.84519127,-0.53446395,0,0)"
+       id="ellipse922"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.40817758"
+       rx="0.30613318"
+       cy="50.021671"
+       cx="-26.550737"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0317471"
+       id="ellipse924"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.877258,54.827448 -1.043269,0.848936 0.797083,1.168967 1.373037,-1.991303 z"
+       id="path926"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:0.252733;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.832429,48.395589 c -0.280727,-0.250549 -2.872232,1.901146 -7.164702,0.64801 -0.113209,-0.686335 -0.194036,-0.542998 0.05748,-1.302824 z"
+       id="path928"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path930"
+       d="m 19.05668,47.985719 c 0.07401,-4.668779 7.031079,-7.353058 8.358597,-0.06272 -1.504867,0.870077 -3.539685,2.074701 -8.358597,0.06272 z"
+       style="fill:#808000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path932"
+       d="m 22.246146,51.00796 c 1.697943,-0.550862 2.479234,0.384768 3.524172,0.669061"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path922"
+       d="m 90.342146,30.12621 -2.046556,-3.977139 -1.10432,0.621843 2.053501,3.616087 z"
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 85.269519,20.561278 c 3.181614,0 2.916492,2.698703 3.145288,5.66633 0.357869,4.64186 0.03633,5.108398 -3.145288,5.108398 -3.181615,0 -2.72175,-2.395988 -2.72175,-5.371256 0,-2.975263 -0.459865,-5.403472 2.72175,-5.403472 z"
+       id="path924"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="1.4792922"
+       rx="1.3721497"
+       cy="80.776855"
+       cx="-35.183392"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.0821941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse926"
+       transform="matrix(-0.60561928,0.79575454,0.79575454,0.60561928,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="2.0490742"
+       rx="1.2994885"
+       cy="58.462933"
+       cx="-56.787796"
+       style="opacity:0.477941;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0361937"
+       id="ellipse928"
+       transform="matrix(-0.89494282,0.44618084,0.60053243,0.7996004,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="4.0472388"
+       rx="3.6866415"
+       cy="17.034883"
+       cx="-85.946068"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse930"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path934"
+       sodipodi:cx="-88.667542"
+       sodipodi:cy="18.463926"
+       sodipodi:rx="1.0910599"
+       sodipodi:ry="1.112042"
+       d="m -87.625336,18.134889 a 1.0910599,1.112042 0 0 1 -0.423581,1.24505 1.0910599,1.112042 0 0 1 -1.29228,-0.04125 1.0910599,1.112042 0 0 1 -0.346305,-1.269628 1.0910599,1.112042 0 0 1 1.085966,-0.715137"
+       transform="scale(-1,1)"
+       sodipodi:start="5.9828029"
+       sodipodi:end="4.7729227"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.31281418"
+       d="m 88.950574,15.444118 c -0.957869,2.161928 -3.084368,3.472621 -5.36049,4.674329 -0.865093,-0.805151 -1.340835,-1.782576 -1.373212,-2.956176 z"
+       id="path1066"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.24902,37.290915 -3.335223,-0.320696 -0.06414,1.282778 3.720059,0.128278 z"
+       id="path940"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.27908,27.291585 -1.611977,-4.929604 c 0.467631,-0.376145 0.938746,-0.746581 1.887455,-0.335478 l 1.339473,4.519798 z"
+       id="path942"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.304047,30.238679 c -1.974968,0.705089 -2.556441,0.511902 -5.689945,-0.226413 2.3062,3.892396 6.360248,0.784777 5.689945,0.226413 z"
+       id="path944"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.088562,34.295665 -1.09304,-3.837766 -2.116585,1.411058 1.710324,2.402604 z"
+       id="path946"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 88.883853,29.878132 85.651889,26.363966 C 86.027,26.154479 85.319978,26.569955 84.50261,27.013391 l 3.238165,3.446886 z"
+       id="path950"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.049421,34.036082 -1.293492,-0.06118 -0.761634,3.379023 1.603476,0.188214 z"
+       id="path952"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path954"
+       d="m 81.165802,37.264007 3.335225,-0.320697 0.06414,1.282776 -3.720057,0.128281 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path956"
+       d="m 82.479466,34.18237 0.892589,-3.637314 2.116584,1.411057 -1.777141,2.603053 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path958"
+       d="m 82.479466,33.988023 1.36031,0.02679 0.828449,2.969141 -1.737108,0.473078 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.324507,30.946738 3.544804,-2.448365 4.640723,3.58062 -1.414963,0.958016 -2.296745,-1.967044 -1.182614,0.767451 -0.853883,-0.832971 -1.278681,0.877322 z"
+       id="path1062" />
+    <ellipse
+       ry="0.77249056"
+       rx="1.0433422"
+       cy="61.104858"
+       cx="-72.983086"
+       transform="matrix(-0.9342529,0.35661115,0.35661108,0.93425293,0,0)"
+       id="ellipse962"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.40817758"
+       rx="0.30613318"
+       cy="18.360374"
+       cx="-89.233742"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0317471"
+       id="ellipse964"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.238181,27.76478 0.975748,-0.866284 -0.518896,-0.950204 c -0.640539,0.338595 -1.510868,0.467058 -1.593457,1.31587 z"
+       id="path966"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path972"
+       d="m 85.812767,19.504147 c 1.846205,-0.549564 2.38386,0.234186 2.640554,0.511577"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="opacity:1;fill:#000080;stroke:#000000;stroke-width:0.134125;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path974"
+       cx="70.746071"
+       cy="50.313171"
+       rx="4.5403185"
+       ry="2.7827425"
+       transform="matrix(0.90093449,-0.43395513,0.43058303,0.90255097,0,0)" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path976"
+       cx="71.777458"
+       cy="45.834873"
+       rx="1.1824647"
+       ry="0.37105259"
+       transform="rotate(-23.158778)" />
+    <path
+       style="fill:#22280b;stroke:#000000;stroke-width:0.214239;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 47.928507,20.571647 0.953139,1.310331 c 0.761665,3.820704 0.176508,5.905585 0,8.517146 l -1.906279,-0.163791 -0.349484,-9.745581 z"
+       id="path978"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path980"
+       d="m 52.205994,28.12713 -3.589488,-2.668633 -0.717383,1.044784 3.436648,2.341452 z"
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 45.151777,20.505785 c 3.181614,0 2.916492,2.698703 3.145288,5.66633 0.357869,4.64186 0.03633,5.108398 -3.145288,5.108398 -3.181615,0 -2.72175,-2.395988 -2.72175,-5.371256 0,-2.975263 -0.459865,-5.403472 2.72175,-5.403472 z"
+       id="path982"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.186305,30.183186 c -1.974968,0.705089 -2.556441,0.511902 -5.689945,-0.226413 2.3062,3.892396 6.360248,0.784777 5.689945,0.226413 z"
+       id="path984"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="1.4792922"
+       rx="1.3721497"
+       cy="48.819305"
+       cx="-10.931468"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.0821941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse986"
+       transform="matrix(-0.60561928,0.79575454,0.79575454,0.60561928,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="2.0490742"
+       rx="1.2994885"
+       cy="40.213169"
+       cx="-24.206758"
+       style="opacity:0.477941;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0361937"
+       id="ellipse988"
+       transform="matrix(-0.89494282,0.44618084,0.60053243,0.7996004,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="4.0472388"
+       rx="3.6866415"
+       cy="16.979389"
+       cx="-45.828327"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse990"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path992"
+       sodipodi:cx="-48.549801"
+       sodipodi:cy="18.408432"
+       sodipodi:rx="1.0910599"
+       sodipodi:ry="1.112042"
+       d="m -47.507595,18.079395 a 1.0910599,1.112042 0 0 1 -0.423581,1.24505 1.0910599,1.112042 0 0 1 -1.29228,-0.04125 1.0910599,1.112042 0 0 1 -0.346305,-1.269627 1.0910599,1.112042 0 0 1 1.085966,-0.715137"
+       transform="scale(-1,1)"
+       sodipodi:start="5.9828029"
+       sodipodi:end="4.7729227"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;stroke:#000000;stroke-width:0.180466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.894071,20.165499 c -0.619787,-0.36348 -1.850072,0.504642 -2.623618,1.91158 -0.456051,2.633932 -0.939116,4.872796 -0.160351,7.50673 l 2.96167,1.277057 c -0.725584,-3.509237 -0.375123,-6.438492 0.473866,-9.09904 z"
+       id="path994"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 45.289223,21.793076 -2.695409,-2.60491 -0.470625,1.01302 c 1.0521,0.987074 1.562098,1.668535 2.181995,2.411953 z"
+       id="path996"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.356867,26.088631 2.235773,-4.679828 c 0.598004,0.05055 1.194589,0.107636 1.597386,1.059901 l -2.150133,4.195199 z"
+       id="path998"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       id="path1000"
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.403433,24.804304 -0.268273,0.682303 -0.143678,-0.0075 0.141037,0.01445 -0.03511,0.08871 -3.684726,4.116535 2.676958,0.760733 0.796453,-1.890817 2.18311,-0.102797 1.696586,0.587703 -0.9841,2.392608 1.342408,0.382019 1.323154,-4.294306 5.681982,1.5755 0.305743,-1.118873 z m 3.022335,2.092358 1.08653,0.342586 -0.468208,1.138283 -1.108055,-0.358978 c -0.118996,0.0165 -0.09346,-0.787558 0.489733,-1.121891 z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <path
+       style="fill:#677821;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.521584,26.776189 -4.449661,-1.730742 c 0.244444,-0.353328 -0.207204,0.331154 -0.745591,1.089352 l 4.425585,1.667613 z"
+       id="path1002"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="27.608215"
+       cx="-44.566986"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1004"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.77249056"
+       rx="1.0433422"
+       cy="57.001591"
+       cx="-14.01701"
+       transform="matrix(-0.6815702,0.73175274,0.73175269,0.68157025,0,0)"
+       id="ellipse1006"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.40817758"
+       rx="0.30613318"
+       cy="18.30488"
+       cx="-49.116001"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0317471"
+       id="ellipse1008"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.556555,25.555162 -1.424623,-1.265167 -0.960286,1.883479 2.742495,-0.397078 z"
+       id="path1010"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:0.252733;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.39769,16.678799 c -0.280727,-0.250549 -2.872232,1.901146 -7.164702,0.64801 -0.113209,-0.686335 -0.194036,-0.542998 0.05748,-1.302824 z"
+       id="path1012"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path1014"
+       d="m 41.621941,16.268929 c 0.07401,-4.668779 7.031079,-7.3530587 8.358597,-0.06272 -1.504867,0.870077 -3.539685,2.074701 -8.358597,0.06272 z"
+       style="fill:#808000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1016"
+       d="m 44.811407,19.29117 c 1.697943,-0.550862 2.479234,0.384768 3.524172,0.669061"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="-11.507106"
+       cx="-93.001236"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse960"
+       transform="matrix(-0.89771012,-0.44058659,-0.44058659,0.89771012,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1068"
+       d="m 118.91727,30.12621 -2.04657,-3.977139 -1.10433,0.621843 2.05352,3.616087 z"
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 113.84461,20.561278 c 3.18164,0 2.91651,2.698703 3.14531,5.66633 0.35787,4.64186 0.0363,5.108398 -3.14531,5.108398 -3.18163,0 -2.72176,-2.395988 -2.72176,-5.371256 0,-2.975263 -0.45987,-5.403472 2.72176,-5.403472 z"
+       id="path1070"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="1.4792922"
+       rx="1.3721497"
+       cy="103.51568"
+       cx="-52.488918"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.0821941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1072"
+       transform="matrix(-0.60561928,0.79575454,0.79575454,0.60561928,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="2.0490742"
+       rx="1.2994885"
+       cy="71.425789"
+       cx="-80.018585"
+       style="opacity:0.477941;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0361937"
+       id="ellipse1074"
+       transform="matrix(-0.89494282,0.44618084,0.60053243,0.7996004,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="4.0472388"
+       rx="3.6866415"
+       cy="17.034883"
+       cx="-114.5211"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1076"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1078"
+       sodipodi:cx="-117.24255"
+       sodipodi:cy="18.463926"
+       sodipodi:rx="1.0910599"
+       sodipodi:ry="1.112042"
+       d="m -116.20035,18.134889 a 1.0910599,1.112042 0 0 1 -0.42358,1.24505 1.0910599,1.112042 0 0 1 -1.29228,-0.04125 1.0910599,1.112042 0 0 1 -0.3463,-1.269628 1.0910599,1.112042 0 0 1 1.08596,-0.715137"
+       transform="scale(-1,1)"
+       sodipodi:start="5.9828029"
+       sodipodi:end="4.7729227"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="opacity:0.312814;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.52569,15.444118 c -0.95787,2.161928 -3.08439,3.472621 -5.36052,4.674329 -0.8651,-0.805151 -1.34084,-1.782576 -1.37322,-2.956176 z"
+       id="path1080"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.7658,37.290915 -3.33524,-0.320696 -0.0641,1.282778 3.72008,0.128278 z"
+       id="path1082"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 112.85417,27.291585 -1.61199,-4.929604 c 0.46764,-0.376145 0.93876,-0.746581 1.88747,-0.335478 l 1.33948,4.519798 z"
+       id="path1084"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.87916,30.238679 c -1.97498,0.705089 -2.55646,0.511902 -5.68998,-0.226413 2.30621,3.892396 6.36029,0.784777 5.68998,0.226413 z"
+       id="path1086"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.60534,34.295665 -1.09305,-3.837766 -2.11659,1.411058 1.71033,2.402604 z"
+       id="path1088"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.45897,29.878132 -3.23199,-3.514166 c 0.37512,-0.209487 -0.33191,0.205989 -1.14928,0.649425 l 3.23818,3.446886 z"
+       id="path1090"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.5662,34.036082 -1.2935,-0.06118 -0.76164,3.379023 1.60348,0.188214 z"
+       id="path1092"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1094"
+       d="m 110.79921,37.264007 3.33525,-0.320697 0.0641,1.282776 -3.72008,0.128281 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1096"
+       d="m 112.11288,34.18237 0.8926,-3.637314 2.11659,1.411057 -1.77715,2.603053 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1098"
+       d="m 112.11288,33.988023 1.36032,0.02679 0.82846,2.969141 -1.73712,0.473078 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.89961,30.946738 3.54482,-2.448365 4.64075,3.58062 -1.41497,0.958016 -2.29676,-1.967044 -1.18262,0.767451 -0.85389,-0.832971 -1.27868,0.877322 z"
+       id="path1100" />
+    <ellipse
+       ry="0.77249056"
+       rx="1.0433422"
+       cy="71.294952"
+       cx="-99.679451"
+       transform="matrix(-0.9342529,0.35661115,0.35661108,0.93425293,0,0)"
+       id="ellipse1102"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.40817758"
+       rx="0.30613318"
+       cy="18.360374"
+       cx="-117.80875"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0317471"
+       id="ellipse1104"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.81328,27.76478 0.97575,-0.866284 -0.5189,-0.950204 c -0.64054,0.338595 -1.51088,0.467058 -1.59347,1.31587 z"
+       id="path1106"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1108"
+       d="m 114.38787,19.504147 c 1.84621,-0.549564 2.38387,0.234186 2.64056,0.511577"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="opacity:1;fill:#000080;stroke:#000000;stroke-width:0.134125;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1110"
+       cx="96.536476"
+       cy="62.713577"
+       rx="4.5403185"
+       ry="2.7827425"
+       transform="matrix(0.90093449,-0.43395513,0.43058303,0.90255097,0,0)" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1112"
+       cx="98.049889"
+       cy="57.072857"
+       rx="1.1824647"
+       ry="0.37105259"
+       transform="rotate(-23.158778)" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="-24.096838"
+       cx="-118.65324"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1114"
+       transform="matrix(-0.89771012,-0.44058659,-0.44058659,0.89771012,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 145.47874,35.263877 c -0.029,3.181478 -2.72522,2.891728 -5.69482,3.09341 -4.64493,0.315471 -5.10852,-0.01035 -5.07946,-3.191793 0.0291,-3.18149 2.42074,-2.699761 5.39589,-2.672592 2.97514,0.02717 5.40744,-0.410511 5.37839,2.770975 z"
+       id="path1118"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="1.4792922"
+       rx="1.3721497"
+       cy="135.97429"
+       cx="-60.045757"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.0821941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1120"
+       transform="matrix(-0.60561928,0.79575454,0.79575454,0.60561928,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="2.0490742"
+       rx="1.2994885"
+       cy="97.634529"
+       cx="-96.407005"
+       style="opacity:0.477941;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0361937"
+       id="ellipse1122"
+       transform="matrix(-0.89494282,0.44618084,0.60053243,0.7996004,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="4.0472388"
+       rx="3.6866415"
+       cy="32.705952"
+       cx="-144.92682"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1124"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1126"
+       sodipodi:cx="-147.64828"
+       sodipodi:cy="34.134995"
+       sodipodi:rx="1.0910599"
+       sodipodi:ry="1.112042"
+       d="m -146.60608,33.805957 a 1.0910599,1.112042 0 0 1 -0.42358,1.245051 1.0910599,1.112042 0 0 1 -1.29228,-0.04125 1.0910599,1.112042 0 0 1 -0.34631,-1.269628 1.0910599,1.112042 0 0 1 1.08597,-0.715137"
+       transform="scale(-1,1)"
+       sodipodi:start="5.9828029"
+       sodipodi:end="4.7729227"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="opacity:0.312814;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 147.93132,31.115186 c -0.95787,2.161928 -3.08437,3.472621 -5.36049,4.674329 -0.86509,-0.805151 -1.34083,-1.782576 -1.37321,-2.956176 z"
+       id="path1128"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 147.40562,37.962284 -5.18647,0.0013 c -0.21235,-0.561312 -0.41809,-1.124204 0.2673,-1.898306 l 4.7123,0.130469 z"
+       id="path1132"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.36481,38.474882 c -1.01415,-1.835513 -0.9172,-2.440526 -0.69353,-5.652052 -3.46985,2.903349 0.25049,6.403585 0.69353,5.652052 z"
+       id="path1134"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.63144,36.10646 -4.77201,0.150994 c 0.0865,-0.420851 -0.0609,0.385868 -0.25918,1.294382 l 4.72513,-0.199644 z"
+       id="path1138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.40817758"
+       rx="0.30613318"
+       cy="34.031445"
+       cx="-148.21449"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0317471"
+       id="ellipse1152"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.15328,37.197574 -0.52043,-1.196532 -1.06437,0.198136 c 0.12292,0.714023 -0.0253,1.581213 0.75593,1.923329 z"
+       id="path1154"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1156"
+       d="m 144.79351,35.175215 c 1.84621,-0.549564 2.38386,0.234186 2.64056,0.511577"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="opacity:1;fill:#000080;stroke:#000000;stroke-width:0.134125;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1158"
+       cx="117.23182"
+       cy="90.027054"
+       rx="4.5403185"
+       ry="2.7827425"
+       transform="matrix(0.90093449,-0.43395513,0.43058303,0.90255097,0,0)" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1160"
+       cx="119.84232"
+       cy="83.439125"
+       rx="1.1824647"
+       ry="0.37105259"
+       transform="rotate(-23.158778)" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="93.852539"
+       cx="-126.32769"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1162"
+       transform="matrix(-0.92005117,0.39179821,0.39179821,0.92005117,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1176"
+       d="m 134.23783,29.011811 1.35753,3.063277 1.1491,-0.573748 -1.71404,-3.304126 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1178"
+       d="m 132.03626,32.233179 2.28246,2.969365 1.36865,-2.144259 -2.67533,-1.666368 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1180"
+       d="m 132.02831,31.764221 0.69099,1.172057 2.99353,-0.735463 -0.4404,-1.745683 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1182"
+       d="m 136.36033,31.128273 -1.60943,2.938755 1.15364,0.564558 1.5843,-3.368262 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1184"
+       d="m 131.1611,35.380543 3.46675,1.417186 0.10352,-2.541718 -3.15047,-0.09351 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1186"
+       d="m 131.44547,34.21781 0.69099,1.172057 2.99353,-0.735463 -0.4404,-1.745683 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.757248,64.98982 -2.106901,2.605288 1.034685,0.76096 2.158629,-3.032428 z"
+       id="path1188"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 83.618695,64.305954 79.81452,63.101199 79.82432,65.645 82.771756,65.543337 Z"
+       id="path1190"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.380572,64.195443 -0.7644,1.045255 2.398647,2.498876 1.041324,-1.233776 z"
+       id="path1192"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1194"
+       d="m 70.83865,65.475509 2.331672,2.406217 -0.962408,0.850529 -2.421429,-2.827006 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1196"
+       d="m 74.066484,64.579244 3.399333,-1.572039 0.217998,2.53446 -3.143035,0.235461 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1198"
+       d="m 74.218357,64.457978 0.82785,1.079734 -1.803321,2.500032 -1.453582,-1.062284 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#22280b;stroke:#000000;stroke-width:0.214239;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 81.318201,54.43519 0.953139,1.310331 c 0.761665,3.820704 0.176508,5.905585 0,8.517146 l -1.906279,-0.163791 -0.349484,-9.745581 z"
+       id="path1200"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.119757,52.144861 -3.697218,3.637313 c 0.242449,0.548983 0.490616,1.094497 1.522134,1.165393 l 3.266857,-3.398588 z"
+       id="path1250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 78.541471,54.369328 c 3.181614,0 2.916492,2.698703 3.145288,5.66633 0.357869,4.64186 0.03633,5.108398 -3.145288,5.108398 -3.181615,0 -2.72175,-2.395988 -2.72175,-5.371256 0,-2.975263 -0.459865,-5.403472 2.72175,-5.403472 z"
+       id="path1204"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.575999,64.046729 c -1.974968,0.705089 -2.556441,0.511902 -5.689945,-0.226413 2.3062,3.892396 6.360248,0.784777 5.689945,0.226413 z"
+       id="path1206"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="1.4792922"
+       rx="1.3721497"
+       cy="95.897789"
+       cx="-4.2058477"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.0821941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1208"
+       transform="matrix(-0.60561928,0.79575454,0.79575454,0.60561928,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="2.0490742"
+       rx="1.2994885"
+       cy="86.173309"
+       cx="-30.675478"
+       style="opacity:0.477941;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0361937"
+       id="ellipse1210"
+       transform="matrix(-0.89494282,0.44618084,0.60053243,0.7996004,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="4.0472388"
+       rx="3.6866415"
+       cy="50.842934"
+       cx="-79.218018"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1212"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="opacity:0.225829;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.292128,48.821231 c -0.373549,-1.304417 -3.293213,-4.592506 -6.508104,0.152908 1.835744,1.383853 4.045135,1.160756 6.508104,-0.152908 z"
+       id="path1262"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#808000;stroke:#000000;stroke-width:0.180466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.283765,54.029042 c -0.619787,-0.36348 -1.850072,0.504642 -2.623618,1.91158 -0.456051,2.633932 -0.939116,4.872796 -0.160351,7.50673 l 2.96167,1.277057 c -0.725584,-3.509237 -0.375123,-6.438492 0.473866,-9.09904 z"
+       id="path1216"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.678917,55.656619 -2.695409,-2.60491 -0.470625,1.01302 c 1.0521,0.987074 1.562098,1.668535 2.181995,2.411953 z"
+       id="path1218"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.336287,51.84247 3.697218,3.637313 c -0.242449,0.548983 -0.490616,1.094497 -1.522134,1.165393 l -3.266857,-3.398588 z"
+       id="path1220"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#677821;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 70.03702,48.889571 2.356531,4.152314 c -0.412681,0.11953 0.369805,-0.12586 1.266099,-0.373614 l -2.377739,-4.088164 z"
+       id="path1224"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="7.1662507"
+       cx="85.13237"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1226"
+       transform="matrix(0.77527473,0.63162417,0.63162417,-0.77527473,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 74.515529,52.842917 C 74.050031,52.396934 73.673341,51.721179 73.090906,51.57775 l -0.931446,1.028155 c -0.05029,0.396303 -0.175441,0.804658 0.476884,1.087856 z"
+       id="path1232"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path1236"
+       d="m 74.576463,47.124464 c 0.07401,-4.668779 7.031079,-7.353059 8.358597,-0.06272 -1.504867,0.870077 -3.539685,2.074701 -8.358597,0.06272 z"
+       style="fill:#808000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.167816;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1240"
+       cx="79.352654"
+       cy="50.392155"
+       rx="1.3525469"
+       ry="1.3747443" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.207044;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1242"
+       ry="0.75630945"
+       rx="0.7546894"
+       cy="50.391354"
+       cx="79.262787" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.167816;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1246"
+       cx="81.939888"
+       cy="49.946701"
+       rx="1.3525469"
+       ry="1.3747443" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.207044;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1248"
+       ry="0.75630945"
+       rx="0.7546894"
+       cy="49.9459"
+       cx="81.850021" />
+    <path
+       style="fill:#677821;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.419024,49.191962 -2.356531,4.152314 c 0.412681,0.11953 -0.369805,-0.12586 -1.266099,-0.373614 l 2.377739,-4.088164 z"
+       id="path1252"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="-92.521233"
+       cx="-36.748333"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1254"
+       transform="rotate(140.82995)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.191667,52.937738 c 0.401734,-0.547399 0.786247,-1.12439 1.424623,-1.265167 l 0.840902,1.02622 c 0.07138,0.709878 -0.259008,1.003099 -0.534665,1.353079 -0.606564,-0.319683 -1.25926,-0.558827 -1.73086,-1.114132 z"
+       id="path1256"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1258"
+       cx="79.556648"
+       cy="53.260918"
+       rx="2.015743"
+       ry="1.5278914" />
+    <ellipse
+       style="opacity:1;fill:#ff0000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1260"
+       cx="79.603737"
+       cy="53.544132"
+       rx="0.88778561"
+       ry="0.66810012" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 139.46188,65.517745 -2.1069,2.605288 1.03468,0.76096 2.15863,-3.032428 z"
+       id="path1264"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.32333,64.833879 -3.80418,-1.204755 0.01,2.543801 2.94744,-0.101663 z"
+       id="path1266"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0338542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.0852,64.723368 -0.7644,1.045255 2.39865,2.498876 1.04132,-1.233776 z"
+       id="path1268"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1270"
+       d="m 123.54328,66.003434 2.33167,2.406217 -0.96241,0.850529 -2.42142,-2.827006 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1272"
+       d="m 126.77111,65.107169 3.39934,-1.572039 0.218,2.53446 -3.14304,0.235461 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1274"
+       d="m 126.92299,64.985903 0.82785,1.079734 -1.80332,2.500032 -1.45359,-1.062284 z"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 136.36052,52.984881 -3.69722,3.637313 c 0.24245,0.548983 0.49062,1.094497 1.52213,1.165393 l 3.26686,-3.398588 z"
+       id="path1278"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.192284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 131.2461,54.897253 c 3.18162,0 2.91649,2.698703 3.14529,5.66633 0.35787,4.64186 0.0363,5.108398 -3.14529,5.108398 -3.18161,0 -2.72175,-2.395988 -2.72175,-5.371256 0,-2.975263 -0.45986,-5.403472 2.72175,-5.403472 z"
+       id="path1280"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.28063,64.574654 c -1.97497,0.705089 -2.55644,0.511902 -5.68995,-0.226413 2.3062,3.892396 6.36025,0.784777 5.68995,0.226413 z"
+       id="path1282"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="1.4792922"
+       rx="1.3721497"
+       cy="138.15746"
+       cx="-35.704693"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.0821941;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1284"
+       transform="matrix(-0.60561928,0.79575454,0.79575454,0.60561928,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="2.0490742"
+       rx="1.2994885"
+       cy="110.56296"
+       cx="-73.200935"
+       style="opacity:0.477941;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0361937"
+       id="ellipse1286"
+       transform="matrix(-0.89494282,0.44618084,0.60053243,0.7996004,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="4.0472388"
+       rx="3.6866415"
+       cy="51.370857"
+       cx="-131.92265"
+       style="fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1288"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="opacity:0.225829;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.99676,49.349156 c -0.37355,-1.304417 -3.29321,-4.592506 -6.50811,0.152908 1.83575,1.383853 4.04514,1.160756 6.50811,-0.152908 z"
+       id="path1290"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.66298,52.550275 3.69722,3.637313 c -0.24245,0.548983 -0.49062,1.094497 -1.52214,1.165393 l -3.26686,-3.398588 z"
+       id="path1298"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.36371,49.597376 2.35653,4.152314 c -0.41268,0.11953 0.36981,-0.12586 1.2661,-0.373614 l -2.37774,-4.088164 z"
+       id="path1300"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="40.299934"
+       cx="126.92228"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1302"
+       transform="matrix(0.77527473,0.63162417,0.63162417,-0.77527473,0,0)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.84222,53.550722 c -0.46958,-0.423979 -0.72127,-0.940788 -1.42462,-1.265167 l -1.13786,0.825986 c -0.1287,0.699727 0.28905,1.14405 0.85165,1.520668 z"
+       id="path1306"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.167816;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1310"
+       cx="132.0573"
+       cy="50.920078"
+       rx="1.3525469"
+       ry="1.3747443" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.207044;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1312"
+       ry="0.75630945"
+       rx="0.7546894"
+       cy="50.919277"
+       cx="131.96742" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.167816;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1314"
+       cx="134.64453"
+       cy="50.474625"
+       rx="1.3525469"
+       ry="1.3747443" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.207044;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1316"
+       ry="0.75630945"
+       rx="0.7546894"
+       cy="50.473824"
+       cx="134.55466" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 139.65978,50.031982 -2.35653,4.152314 c 0.41268,0.11953 -0.3698,-0.12586 -1.2661,-0.373614 l 2.37774,-4.088164 z"
+       id="path1318"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.87853646"
+       rx="1.18657"
+       cy="-126.16901"
+       cx="-76.718704"
+       style="fill:#d38d5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse1320"
+       transform="rotate(140.82995)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0317471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.43243,53.777758 c 0.45923,-0.437255 0.71205,-1.079492 1.42462,-1.265167 0.54254,0.157092 0.76933,0.528457 0.93757,0.939564 0.0432,0.523194 -0.1124,1.000533 -0.59241,1.403077 -0.63876,-0.216617 -1.31684,-0.318501 -1.76978,-1.077474 z"
+       id="path1322"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1324"
+       cx="132.26129"
+       cy="53.788841"
+       rx="2.015743"
+       ry="1.5278914" />
+    <ellipse
+       style="opacity:1;fill:#ff0000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1326"
+       cx="132.30838"
+       cy="54.072056"
+       rx="0.88778561"
+       ry="0.66810012" />
+    <ellipse
+       style="opacity:1;fill:#000080;stroke:#000000;stroke-width:0.134125;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1332"
+       cx="98.564247"
+       cy="98.203758"
+       rx="4.5403185"
+       ry="2.7827425"
+       transform="matrix(0.90093449,-0.43395513,0.43058303,0.90255097,0,0)" />
+    <ellipse
+       style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1334"
+       cx="101.52805"
+       cy="92.442787"
+       rx="1.1824647"
+       ry="0.37105259"
+       transform="rotate(-23.158778)" />
+    <path
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1214"
+       sodipodi:cx="-81.939491"
+       sodipodi:cy="52.271976"
+       sodipodi:rx="1.0910599"
+       sodipodi:ry="1.112042"
+       d="m -80.897285,51.942939 a 1.0910599,1.112042 0 0 1 -0.423581,1.24505 1.0910599,1.112042 0 0 1 -1.29228,-0.04125 1.0910599,1.112042 0 0 1 -0.346306,-1.269628 1.0910599,1.112042 0 0 1 1.085966,-0.715137"
+       transform="scale(-1,1)"
+       sodipodi:start="5.9828029"
+       sodipodi:end="4.7729227"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.40817758"
+       rx="0.30613318"
+       cy="52.168423"
+       cx="-82.505699"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0317471"
+       id="ellipse1230"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <path
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.190483;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1292"
+       sodipodi:cx="-134.64413"
+       sodipodi:cy="52.7999"
+       sodipodi:rx="1.0910599"
+       sodipodi:ry="1.112042"
+       d="m -133.60193,52.470863 a 1.0910599,1.112042 0 0 1 -0.42358,1.24505 1.0910599,1.112042 0 0 1 -1.29228,-0.04125 1.0910599,1.112042 0 0 1 -0.3463,-1.269627 1.0910599,1.112042 0 0 1 1.08596,-0.715137"
+       transform="scale(-1,1)"
+       sodipodi:start="5.9828029"
+       sodipodi:end="4.7729227"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
+    <ellipse
+       ry="0.40817758"
+       rx="0.30613318"
+       cy="52.696346"
+       cx="-135.21034"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0317471"
+       id="ellipse1304"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/cabral/Imágenes/kiko-parado00.png"
+       inkscape:export-xdpi="89.962936"
+       inkscape:export-ydpi="89.962936" />
   </g>
 </svg>
